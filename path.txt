@@ -1,1 +1,1 @@
-C:\ProgramData\Oracle\Java\javapath\change
+C:\ProgramData\SQLServer\Java\javapath\change\AndAnotherChange
