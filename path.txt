@@ -1,1 +1,1 @@
-C:\ProgramData\SQLServer\Java\javapath\change\AndAnotherChange
+NEW PATH
